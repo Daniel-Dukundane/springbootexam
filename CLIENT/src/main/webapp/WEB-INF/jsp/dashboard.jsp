@@ -172,7 +172,7 @@
                 <div class='inputBX'>
                     <label >Enter Website URL</label>
                     <input
-                      type='text'
+                      type='url'
                       required
                       name='urlName'
   placeholder="https://www.google.com/"
